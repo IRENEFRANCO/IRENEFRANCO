@@ -1,0 +1,44 @@
+# Algoritmos
+pHYTON
+n1 = int (input ('Digite o primeiro número: '))  
+n2 = int (input ('Digite o segundo número: '))  
+n3 = int (input ('Digite o terceiro número: '))  
+n4 = int (input ('Digite o quarto número: '))  
+n5 = int (input ('Digite o quinto número: '))  
+lista = [n1, n2, n3, n4, n5]  
+print (lista)  
+print ('A mediana na lista acima é o número {}.'.format (n3))
+PHYTON
+ Algoritmos
+TEST 2
+n1 = int (input ('Digite um número de 0 a 6: '))  
+n2 = int (input ('Digite outro número de 0 a 6: '))  
+n3 = int (input ('Não desista! Digite mais um número de 0 a 6: '))  
+n4 = int (input ('Vamos lá! Digite mais número de 0 a 6: '))  
+x = int (input ('Escolha o número 2 ou o 3, por favor: '))  
+lista = [n1, n2, n3, n4]  
+pri nt (lista)          
+print ('Temos {} par(es) com diferença igual ao valor de x'. format (n1-x, n2-x, n3-x, n4-x))  
+print ('Olá, selecionadores. Estou cursando Phyton faz pouco tempo e não achei a solução para a contagem de pares.')  
+print ('Mas quero muito fazer parte da equipe de vocês! Obrigada!')
+TESTE 3
+# Algoritmos
+
+frase = 'AprovadanoProcessoSeletivoCapgemini'  
+print (frase)  
+print (len ('AprovadanoProcessoSeletivoCapgemini'))  
+print ('Explicação: Depois de tirados os espaços, a string tem 35 espaços.')  
+print ('|35 está entre 5 e 7, então a string é reescrita na forma de um grid de 5 colunas e 7 linhas.')  
+print (frase [:5])  
+print (frase [5:11])  
+print (frase [11:16])  
+print (frase [16:21])  
+print (frase [21:26])  
+print (frase [26:31])  
+print (frase [31:])  
+print (frase.upper ())  
+print ('AAPSLOE')  
+print ('PDRSECM')  
+print ('RAOOTAI')  
+print ('ONCSIPN')  
+print ('VOEEVGI')
